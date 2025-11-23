@@ -56,10 +56,6 @@ python   linux   cybersecurity   git   networks
 <img width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" title="Metasploit" />
 <img width="45" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_key.svg" title="Cryptography" />
 
-
-
-
-
 </div>
 
 ---
@@ -67,9 +63,10 @@ python   linux   cybersecurity   git   networks
 ### 📡 System Logs (GitHub Stats)
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=erihrodrigues&show_icons=true&theme=chartreuse-dark&rank_icon=github&hide_title=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erihrodrigues&layout=compact&theme=chartreuse-dark"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=erihrodrigues&show_icons=true&theme=chartreuse-dark&rank_icon=github&hide_title=true&cache_seconds=1"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erihrodrigues&layout=compact&theme=chartreuse-dark&cache_seconds=1"/>
 </div>
+
 
 ---
 

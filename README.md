@@ -19,7 +19,7 @@
 
 <div align="center" width="100%" style="margin-top: 14px;">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=00FF00&width=1050&size=22&center=true&lines=Initializing+Profile...;User:+Erica+Almeida;Computer+Engineering+Student+Verified;Cybersecurity+Training+Initialized.;System+Integrity:+GREEN"
+    src="https://readme-typing-svg.demolab.com/?font=Iosevka&color=00FF00&width=1050&size=22&center=true&lines=Initializing+Profile...;User:+Erica+Almeida;Computer+Engineering+Student+Verified;Cybersecurity+Training+Initialized."
     alt="typing"
   />
 </div>

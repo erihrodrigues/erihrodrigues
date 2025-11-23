@@ -50,7 +50,15 @@ python   linux   cybersecurity   git   networks
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
+<img width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" />
+<img width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" />
+<img width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/portswigger.svg" title="Burp Suite" />
+<img width="45" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/metasploit.svg" title="Metasploit" />
+<img width="45" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_key.svg" title="Cryptography" />
+
+
+
+
 
 </div>
 
@@ -73,8 +81,7 @@ root@erica:~$ open connections
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erihrodrigues01@gmail.com)  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erihrodrigues) 
+[![Gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erihrodrigues01@gmail.com)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erihrodrigues) 
 
 </div>
 
